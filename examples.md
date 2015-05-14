@@ -2,6 +2,6 @@ Examples
 ========
 
 * find all (float) numbers
-
-   re.findall("[-+]?\d*\.*\d+", textstring)
-
+```
+re.findall("[-+]?\d*\.*\d+", textstring)
+```
